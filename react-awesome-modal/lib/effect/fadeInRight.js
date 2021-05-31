@@ -42,6 +42,9 @@ exports.default = {
         backgroundColor: 'rgba(52, 52, 52, 0)',
         'borderRadius': '10px',
         'boxSizing': 'border-box',
+        'width':'100%',
+        'justifyContent':'center',
+
         'boxShadow': '0 2px 4px rgba(0, 0, 0, 0.3)',
         'transform': 'translate3d(0, 0, 0)',
         'transition': 'transform 500ms cubic-bezier(0, 0, 0.25, 1), opacity 500ms cubic-bezier(0, 0, 0.25, 1)',

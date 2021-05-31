@@ -44,6 +44,9 @@ exports.default = {
         'boxSizing': 'border-box',
         'boxShadow': '0 2px 4px rgba(0, 0, 0, 0.3)',
         'transform': 'translate3d(0, 0, 0)',
+         'width':'100%',
+         'justifyContent':'center',
+
         'transition': 'transform 500ms cubic-bezier(0, 0, 0.25, 1), opacity 500ms cubic-bezier(0, 0, 0.25, 1)',
         'zIndex': 10002
     },
