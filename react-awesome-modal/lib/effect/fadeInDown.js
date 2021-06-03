@@ -42,7 +42,7 @@ exports.default = {
         backgroundColor: 'rgba(52, 52, 52, 0)',
         'borderRadius': '10px',
         'boxSizing': 'border-box',
-        'boxShadow': '0 2px 4px rgba(0, 0, 0, 0.3)',
+        // 'boxShadow': '0 2px 4px rgba(0, 0, 0, 0.3)',
         'transform': 'translate3d(0, 0, 0)',
          'width':'100%',
          'justifyContent':'center',
